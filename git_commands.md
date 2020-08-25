@@ -6,9 +6,9 @@
 1. git init
 2. adding .gitignore (optional)
 3. adding a remote to local repo
-git remote add origin <url>
+git remote add origin url
   * origin: new remote name (origin is the convention name)
-  * <url>: url of the remote, need to create a git project first
+  * url: url of the remote, need to create a git project first
 ## 2. Creating a git project 
-git clone <url>, so, it gets automatically added as a remote
+git clone url, so, it gets automatically added as a remote
 
